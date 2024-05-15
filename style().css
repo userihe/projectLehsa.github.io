@@ -1,0 +1,39 @@
+ body {
+ font: 13pt Arial, Helvetica, sans-serif; 
+ background-color: #e1dfb9;
+ 
+}
+h2 {
+font-size: 30px; 
+color: #080808; 
+margin-top: 0; 
+}
+.container {
+width: 1000px;
+height:900px;
+margin: 0 auto; 
+background-color: #f0f0f0; 
+   }
+.header {
+font-size: 38px; 
+text-align: center; /
+padding: 5px; 
+background-color: FF8C00; 
+color: #fff; 
+}
+.sidebar {
+margin-top: 10px;
+width: 110px; 
+padding: 0 10px;
+float: left; 
+}
+.content {
+ margin-left: 130px; 
+ padding: 10px; 
+background-color: #fff;
+ }
+.footer {
+background-color: FF8C00; 
+color: #fff; 
+padding: 5px; 
+   }

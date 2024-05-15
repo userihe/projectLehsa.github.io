@@ -1,5 +1,5 @@
 *{
-  text-decoration:none;
+	text-decoration:none;
 }
 body{
 font: 13pt Arial, Helvetica, sans-serif; 
@@ -16,7 +16,7 @@ h2 {
 .container {
     width: 600px; 
     margin: 0 auto; 
-    background: #f0f0f0; 
+    background: #f0f0f0; /
    }
 
 .header {
@@ -32,7 +32,7 @@ h2 {
     width: 110px; 
     padding: 0 10px; 
     float: left;
-  
+	
    }
 
 .content {
@@ -47,12 +47,13 @@ h2 {
     padding: 5px; 
    }
 main{
-	margin:0px auto;
-	font-family:Arial
+ width:1920;
+ margin:0px auto;
+ font-family:Arial
  }
  .cl-1{
-   width:460px;
-   height:250px;
+	 width:420px;
+	 height:250px;
  }
 .cl-2{
 display:flex; 
@@ -67,15 +68,16 @@ margin-top:25px;
  text-align:center;
  }
  .cl-3{
-width:100px;
-	height:50;
-	background-color:#FF8C00;
-	border-radius:30px;
-	display:flex;
-	justify-content:center;
-	color:white;
-	align-items:center;
-	margin:0 auto;
-	text-align:center;
+	 color:red;
+	 background-color:#F0E68C;
+	 display:flex; 
+ margin:0 auto;
+ width:100px;
+height:50px;
+border-radius:25px;
+margin-top:25px; 
+ margin-bottom:40px;
+ text-align:center;
  }
+ 
  
